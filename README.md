@@ -21,6 +21,6 @@ Then follow the [Quick Start Guide](./doc/quick-start-guide.md).
 
 See [Documentation Index](./doc/README.md)
 
-##Change
+##Changes
 
-I fix some problems such that the installation can be performed well on my Macbook.
+I fixed some problems such that the installation can be performed well on my Macbook.
