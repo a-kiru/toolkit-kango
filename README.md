@@ -20,22 +20,3 @@ Then follow the [Quick Start Guide](./doc/quick-start-guide.md).
 ## Documentation
 
 See [Documentation Index](./doc/README.md)
-
-
-## Contributing
-
-See the [CONTRIBUTING](https://github.com/overleaf/overleaf/blob/main/CONTRIBUTING.md) file.
-
-
-## Getting Help
-
-Users of the free Community Edition should [open an issue on github](https://github.com/overleaf/toolkit/issues). 
-
-Users of Server Pro should contact `support@overleaf.com` for assistance.
-
-In both cases, it is a good idea to include the output of the `bin/doctor` script in your message.
-
-## Changes
-
-I deleted '\1' part in the last line of lib/shared-functions.sh and created data/mongo/.gitkeep data/redis/.gitkeep data/overleaf/.gitkeep and data/git-bridge/.gitkeep. 
-
