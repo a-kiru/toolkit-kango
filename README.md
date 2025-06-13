@@ -35,3 +35,7 @@ Users of Server Pro should contact `support@overleaf.com` for assistance.
 
 In both cases, it is a good idea to include the output of the `bin/doctor` script in your message.
 
+## Changes
+
+I deleted '\1' part in the last line of lib/shared-functions.sh and created data/mongo/.gitkeep data/redis/.gitkeep data/overleaf/.gitkeep and data/git-bridge/.gitkeep. 
+
